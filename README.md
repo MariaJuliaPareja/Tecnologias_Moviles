@@ -7,4 +7,4 @@ Prácticas_Diarias_Tecnologías_Móviles
 - [Para cambiar monedas](https://github.com/MariaJuliaPareja/CambioMonedas)
 
 ### Práctica 7
-- [CRUD en Bitácora de cursos]
+- [CRUD en Bitácora de cursos](https://github.com/MariaJuliaPareja/Bitacora_cursos)
